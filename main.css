@@ -34,3 +34,9 @@ body{
     width: 100px;
     background: #e1f42a;
 }
+.gimn-btn:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: .3s;
+    box-shadow: 0 0 10px rgb(225 244 42 / 90%);
+}
