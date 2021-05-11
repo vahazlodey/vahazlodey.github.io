@@ -25,5 +25,12 @@ body{
 .gimn-btn{
     display: block;
     margin: 0 auto;
-    
+    border: 0;
+    font-weight: 900;
+    color: #cd0a01;
+    border-radius: 2px;
+    font-size: 16px;
+    height: 30px;
+    width: 100px;
+    background: #e1f42a;
 }
