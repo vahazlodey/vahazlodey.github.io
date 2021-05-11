@@ -1,3 +1,4 @@
 body{
-    background-color: red;
+    background: url(./images/team-bg.jpg);
+    background-size: cover;
 }
