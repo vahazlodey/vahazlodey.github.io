@@ -20,4 +20,10 @@ body{
 .gimn{
     position: relative;
     z-index: 10;
+    padding-top: 30px;
+}
+.gimn-btn{
+    display: block;
+    margin: 0 auto;
+    
 }
